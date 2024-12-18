@@ -21,10 +21,6 @@ Stack IT! is a casual mobile game in which players must stack blocks as high as 
 
 Download the latest version of the game from the [releases page](https://github.com/kurtpetrola/StackIT/releases)
 
-### 👥 Contributing
-
-We welcome pull requests, bug reports, and feature suggestions! Your contributions help improve the game.
-
 ### 🌟 Acknowledgement
 
 ✨ [ElevenLabs](https://elevenlabs.io/) for the TTS
@@ -44,6 +40,10 @@ We welcome pull requests, bug reports, and feature suggestions! Your contributio
 🧑‍🎨 [Federico Ubando](https://github.com/Feedoc) - Graphic Designer
 
 📝 [Eulysis Cuerdo](https://github.com/ECuerdo) - Document Writer
+
+### 👥 Contributing
+
+We welcome pull requests, bug reports, and feature suggestions! Your contributions help improve the game.
 
 ### 📜 License
 
